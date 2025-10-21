@@ -43,7 +43,7 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ancientphd&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+![ancient03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ancient03&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=ancientphd&theme=dark&hide_border=false" />
 </div>
