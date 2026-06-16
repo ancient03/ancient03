@@ -35,19 +35,15 @@ Full-Stack Developer and DevOps Specialist working with Node.js, Laravel, React,
 
 ---
 
-📊 **GitHub Stats:**
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ancient03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ancient03&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancient03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ancient03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ancient03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ancient03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ancient03&color=blue)](https://visitcount.itsvg.in)
 
-🔝 **Top Contributed Repo:**
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ancient03&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
