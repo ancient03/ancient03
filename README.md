@@ -1,10 +1,8 @@
-<h1 align="center">Hi, I'm Ancient XD 👋 </h1>
-
+<h1 align="center">Hi, I'm Ancient XD 👋</h1>
 <div align="center">
-<img src="https://i.pinimg.com/originals/a5/20/0f/a5200ff8939402e4e2bbda3a8107d2b1.gif"  width="900"> 
+<img src="https://i.pinimg.com/originals/a5/20/0f/a5200ff8939402e4e2bbda3a8107d2b1.gif" width="900">
 </div>
-<h3 align="center">A passionate Fullstack Web Developer from Indonesia</h3><br>
-
+<h3 align="center">Full-Stack Developer & DevOps Specialist from Indonesia</h3><br>
 <p align="center">
   <a href="mailto:rizqieadriananto@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://instagram.com/ancientphd" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -15,64 +13,44 @@
 ---
 
 🌟 **About Me**
-- 🔭 I’m currently working on: Web-based applications using **CodeIgniter 4** & **Laravel**
-- 🌱 I’m currently learning: Advanced **Java** and RESTful API integration
-- 👯 I’m open to collaborate on: Any project involving **PHP**, **JavaScript**, or **Java**
+
+Full-Stack Developer and DevOps Specialist working with Node.js, Laravel, React, Docker, and database systems. I enjoy designing database architecture and managing containerized environments to keep systems efficient and maintainable. Most of my time goes into building full-stack web applications end-to-end — from backend logic to frontend interfaces — and setting up deployment workflows that are automated, reliable, and easy to scale.
 
 ---
 
 🛠 **Tech Stack**
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" alt="CodeIgniter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancientphd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  
 ---
 
 📊 **GitHub Stats:**
 
 <div align="left">
-
-![ancient03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ancient03&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ancientphd&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ancient03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ancient03&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancient03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 ---
 
-🔝 **Top Contributed Repo :**
+🔝 **Top Contributed Repo:**
 
- <img src="https://github-contributor-stats.vercel.app/api?username=ancientphd&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=ancient03&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ---
 
 ✍️ ***Random Dev Quote***
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<!--
-**ancientphd/ancientphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
