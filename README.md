@@ -14,7 +14,7 @@
 
 🌟 **About Me**
 
-Full-Stack Developer and DevOps Specialist working with Node.js, Laravel, React, Docker, and database systems. I enjoy designing database architecture and managing containerized environments to keep systems efficient and maintainable. Most of my time goes into building full-stack web applications end-to-end — from backend logic to frontend interfaces — and setting up deployment workflows that are automated, reliable, and easy to scale.
+Full-Stack Developer and DevOps Specialist working with Node.js, Laravel, React, Docker, and database systems. I enjoy designing database architecture, managing containerized environments, and building REST APIs to keep systems efficient and maintainable. Most of my time goes into building full-stack web applications end-to-end — from backend logic to frontend interfaces — and setting up deployment workflows that are automated, reliable, and easy to scale.
 
 ---
 
